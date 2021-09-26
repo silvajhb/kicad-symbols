@@ -75,7 +75,7 @@ $ENDCMP
 $CMP 4017
 D Johnson Counter ( 10 outputs )
 K CNT CNT10
-F http://www.intersil.com/content/dam/Intersil/documents/cd40/cd4017bms-22bms.pdf
+F https://cdn.datasheetspdf.com/pdf-down/C/D/4/CD4017BMS_IntersilCorporation.pdf
 $ENDCMP
 #
 $CMP 4020
